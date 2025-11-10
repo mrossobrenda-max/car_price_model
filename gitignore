@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.env
+*.sqlite3
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+.envrc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
